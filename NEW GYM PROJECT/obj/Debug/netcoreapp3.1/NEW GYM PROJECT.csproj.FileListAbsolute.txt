@@ -1,0 +1,30 @@
+C:\Users\ROHIT PATIL\source\repos\NEW GYM PROJECT\NEW GYM PROJECT\bin\Debug\netcoreapp3.1\NEW GYM PROJECT.exe
+C:\Users\ROHIT PATIL\source\repos\NEW GYM PROJECT\NEW GYM PROJECT\bin\Debug\netcoreapp3.1\NEW GYM PROJECT.deps.json
+C:\Users\ROHIT PATIL\source\repos\NEW GYM PROJECT\NEW GYM PROJECT\bin\Debug\netcoreapp3.1\NEW GYM PROJECT.runtimeconfig.json
+C:\Users\ROHIT PATIL\source\repos\NEW GYM PROJECT\NEW GYM PROJECT\bin\Debug\netcoreapp3.1\NEW GYM PROJECT.runtimeconfig.dev.json
+C:\Users\ROHIT PATIL\source\repos\NEW GYM PROJECT\NEW GYM PROJECT\bin\Debug\netcoreapp3.1\NEW GYM PROJECT.dll
+C:\Users\ROHIT PATIL\source\repos\NEW GYM PROJECT\NEW GYM PROJECT\bin\Debug\netcoreapp3.1\NEW GYM PROJECT.pdb
+C:\Users\ROHIT PATIL\source\repos\NEW GYM PROJECT\NEW GYM PROJECT\obj\Debug\netcoreapp3.1\NEW GYM PROJECT.csprojAssemblyReference.cache
+C:\Users\ROHIT PATIL\source\repos\NEW GYM PROJECT\NEW GYM PROJECT\obj\Debug\netcoreapp3.1\NEW_GYM_PROJECT.Properties.Resources.resources
+C:\Users\ROHIT PATIL\source\repos\NEW GYM PROJECT\NEW GYM PROJECT\obj\Debug\netcoreapp3.1\NEW GYM PROJECT.csproj.GenerateResource.cache
+C:\Users\ROHIT PATIL\source\repos\NEW GYM PROJECT\NEW GYM PROJECT\obj\Debug\netcoreapp3.1\NEW GYM PROJECT.AssemblyInfoInputs.cache
+C:\Users\ROHIT PATIL\source\repos\NEW GYM PROJECT\NEW GYM PROJECT\obj\Debug\netcoreapp3.1\NEW GYM PROJECT.AssemblyInfo.cs
+C:\Users\ROHIT PATIL\source\repos\NEW GYM PROJECT\NEW GYM PROJECT\obj\Debug\netcoreapp3.1\NEW GYM PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\ROHIT PATIL\source\repos\NEW GYM PROJECT\NEW GYM PROJECT\obj\Debug\netcoreapp3.1\NEW GYM PROJECT.dll
+C:\Users\ROHIT PATIL\source\repos\NEW GYM PROJECT\NEW GYM PROJECT\obj\Debug\netcoreapp3.1\NEW GYM PROJECT.pdb
+C:\Users\ROHIT PATIL\source\repos\NEW GYM PROJECT\NEW GYM PROJECT\obj\Debug\netcoreapp3.1\NEW GYM PROJECT.genruntimeconfig.cache
+C:\Users\ROHIT PATIL\source\repos\NEW GYM PROJECT\NEW GYM PROJECT\obj\Debug\netcoreapp3.1\NEW_GYM_PROJECT.mainform.resources
+C:\Users\ROHIT PATIL\source\repos\NEW GYM PROJECT\NEW GYM PROJECT\obj\Debug\netcoreapp3.1\NEW_GYM_PROJECT.addmembers.resources
+C:\Users\ROHIT PATIL\source\repos\NEW GYM PROJECT\NEW GYM PROJECT\obj\Debug\netcoreapp3.1\NEW_GYM_PROJECT.updatedelete.resources
+C:\Users\ROHIT PATIL\source\repos\NEW GYM PROJECT\NEW GYM PROJECT\obj\Debug\netcoreapp3.1\NEW_GYM_PROJECT.login.resources
+C:\Users\ROHIT PATIL\source\repos\NEW GYM PROJECT\NEW GYM PROJECT\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ROHIT PATIL\source\repos\NEW GYM PROJECT\NEW GYM PROJECT\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ROHIT PATIL\source\repos\NEW GYM PROJECT\NEW GYM PROJECT\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ROHIT PATIL\source\repos\NEW GYM PROJECT\NEW GYM PROJECT\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ROHIT PATIL\source\repos\NEW GYM PROJECT\NEW GYM PROJECT\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ROHIT PATIL\source\repos\NEW GYM PROJECT\NEW GYM PROJECT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ROHIT PATIL\source\repos\NEW GYM PROJECT\NEW GYM PROJECT\obj\Debug\netcoreapp3.1\NEW GYM PROJECT.csproj.CopyComplete
+C:\Users\ROHIT PATIL\source\repos\NEW GYM PROJECT\NEW GYM PROJECT\obj\Debug\netcoreapp3.1\NEW_GYM_PROJECT.Equipment.resources
+C:\Users\ROHIT PATIL\source\repos\NEW GYM PROJECT\NEW GYM PROJECT\obj\Debug\netcoreapp3.1\NEW_GYM_PROJECT.start.resources
+C:\Users\ROHIT PATIL\source\repos\NEW GYM PROJECT\NEW GYM PROJECT\obj\Debug\netcoreapp3.1\NEW_GYM_PROJECT.Payment.resources
+C:\Users\ROHIT PATIL\source\repos\NEW GYM PROJECT\NEW GYM PROJECT\obj\Debug\netcoreapp3.1\NEW_GYM_PROJECT.Receipt.resources
